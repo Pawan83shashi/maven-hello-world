@@ -1,3 +1,3 @@
-# maven-project
+# Maven-project
 
-Simple Maven Project
+Maven Project hello-world for testing continuoes integration & continues deployment through Jenkins to tomcat server.
